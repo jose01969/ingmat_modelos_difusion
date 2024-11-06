@@ -8,5 +8,8 @@ El proceso consta de 2 partes  básicamente:
 3) y el proceso hacia atrás, que parte de la imagen ruidosa , ruido blanco, y genera una imagen.
 
 El soporte teórico se encuentra en el documento pdf del presente repositorio.
-El código python utilizado fué facilitado por ....., a quién agradecemos su colaboración.
+
+El código python utilizado se encuentra en https://colab.research.google.com/drive/1K6JISGGyxxqaZ7ASvzokgW-zUBs5NEo4?usp=sharing
+
+El mismo fué facilitado por Matias Tailanian, a quién agradecemos su colaboración.
 
